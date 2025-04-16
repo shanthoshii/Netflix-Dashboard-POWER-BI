@@ -4,12 +4,6 @@ This repository contains an interactive Power BI dashboard built using Netflix d
 
 ---
 
-## 📂 File
-
-- `NETFLIX DASHBOARD.pbix` - Power BI report file.
-
----
-
 ## 📊 Key Features
 
 - Overview of total content (TV Shows & Movies)
@@ -29,7 +23,7 @@ This repository contains an interactive Power BI dashboard built using Netflix d
 - Line charts (Trend over the years)
 - Pie charts (Content type distribution)
 - Stacked column charts
-- Slicers for filtering (Year, Genre, Type, Country)
+- Slicers for filtering (Year,Type, Country)
 
 ---
 
